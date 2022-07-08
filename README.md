@@ -22,7 +22,7 @@ python3 gen_eth.py -s START -e END -t THREADS
 
 
 Example:
-python3 gen_eth.py -s bad -e END -t 6969
+python3 gen_eth.py -s bad -e 6969 -t 50
 ```
 
 Parameters:
