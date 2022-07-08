@@ -1,7 +1,7 @@
 
 **Generate beautiful ETH wallet address**
 
-A simple program to create a beautiful address for your wallet! Completely anonymous on your computer!
+A simple program to create a beautiful address for your wallet! Completl anonymous on your computer!
 
 ![Screen Shot 2022-07-08 at 17 26 05](https://user-images.githubusercontent.com/108941609/178011863-63bc02e2-da3f-48a8-911a-9f65d503c74d.png)
 
@@ -9,6 +9,7 @@ Requirements:
 ```
 python3
 python3-pip
+eth_account
 ```
 
 Installing:
